@@ -15,8 +15,14 @@ A thematic map visualizing population change across New Zealand regions in 2023.
 5) Vector data processing (roads, boundaries, points)
 6) Information Extraction
 ## Outputs Preview
+
+1. Canterbury Scenic Landscape Map (New Zealand)
 <img width="865" height="1128" alt="image" src="https://github.com/user-attachments/assets/d886535d-7327-4b26-a3b7-339c3ee99fd7" />
+
+2. Africa Political Map
 <img width="865" height="1105" alt="image" src="https://github.com/user-attachments/assets/6b38599f-84b3-4244-9785-f0f8babdccae" />
+
+3. New Zealand Population Change Map (2023)
 <img width="865" height="1126" alt="image" src="https://github.com/user-attachments/assets/3550d61b-447c-4066-b7de-9f221cf1a5c6" />
 
 
